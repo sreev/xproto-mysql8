@@ -13,7 +13,7 @@ Open terminal:
 
 > $ cd mysql-8.0.1-dmr-macos10.12-x86_64
 
-> $ bin/mysqld --initialize --basedir=~/mysql-8.0.1-dmr-macos10.12-x86_64 --datadir=~/data
+> $ bin/mysqld --initialize --basedir=mysql-8.0.1-dmr-macos10.12-x86_64 --datadir=data
 
 > $ bin/mysqld_safe
 
