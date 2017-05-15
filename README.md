@@ -30,9 +30,9 @@ Open another terminal:
 
 > $ bin/mysq -u root -p
 
-> mysql> source ~/world_x-db/world_x.sql;
-
 > mysql> install plugin mysqlx soname 'mysqlx.so';
+
+> mysql> source ~/world_x-db/world_x.sql;
 
 
 Open another terminal:
